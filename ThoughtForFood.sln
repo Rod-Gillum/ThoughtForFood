@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtForFood", "ThoughtFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtForFood.Tests", "ThoughtForFood.Tests\ThoughtForFood.Tests.csproj", "{209AD69F-D3C0-422C-B705-B44FB958D07E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtForFood.Core", "ThoughtForFood.Core\ThoughtForFood.Core.csproj", "{2C7A7703-3D10-47D7-85E2-5DDCE67EEA03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{209AD69F-D3C0-422C-B705-B44FB958D07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{209AD69F-D3C0-422C-B705-B44FB958D07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{209AD69F-D3C0-422C-B705-B44FB958D07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7A7703-3D10-47D7-85E2-5DDCE67EEA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7A7703-3D10-47D7-85E2-5DDCE67EEA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7A7703-3D10-47D7-85E2-5DDCE67EEA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7A7703-3D10-47D7-85E2-5DDCE67EEA03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

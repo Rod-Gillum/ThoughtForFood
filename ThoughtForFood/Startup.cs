@@ -1,7 +1,7 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(ThoughtForFood.Startup))]
+[assembly: OwinStartup(typeof(ThoughtForFood.Startup))]
 namespace ThoughtForFood
 {
     public partial class Startup
